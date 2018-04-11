@@ -1,9 +1,9 @@
-//META{"name":"QuietCustom","description":"Dark and Quiet. Easy on the eyes. Custom fork made by Nichts","author":"Omniscient&Nichts","version":"1.1"}*//
+//META{"name":"QuietCustom","description":"Dark and Quiet. Easy on the eyes. Custom fork made by Nichts","author":"Omniscient&Nichts","version":"1.0"}*//
 @import url(https://fonts.googleapis.com/css?family=Satisfy);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,400i);
 @import url(https://rawgit.com/0mniscient/Discord-Themes/master/css/Tags.css);
 :root {
-    --version-content: "1.0 WiP";
+    --version-content: "1.1 WiP";
     --theme-name: "QuietCustom";
     --theme-letter: "N";
     --main-color: #9c27b0;
