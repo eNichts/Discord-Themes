@@ -1,0 +1,11 @@
+//META{"name":"QuietCustom","description":"Dark and Quiet. Easy on the eyes. Custom fork made by Nichts","author":"Omniscient&Nichts","version":"1.0"}*//
+
+/* IMPORT CSS FROM GITHUB */
+@import url("https://rawgit.com/0mniscient/Discord-Themes/master/css/Quiet.css");
+/*
+===== CUSTOMIZABLE COLORS =====
+*/
+:root { 
+    --main-color: #9c27b0;
+    --hover-color: #651972;
+ }
