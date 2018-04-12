@@ -5,4 +5,4 @@ Repository made to host my custom version of Quiet by 0mniscient (https://github
 
 ## [Quiet](https://github.com/eNichts/Discord-Themes/blob/master/css/CustomQuiet.css)
 
-**Description:** <i>Dark and Quiet. Easy on the eyes.🏻</i>
+**Description:** <i>An easy on the eyes theme.</i>
