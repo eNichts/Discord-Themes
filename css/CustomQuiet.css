@@ -3,9 +3,11 @@
 @import url("https://rawgit.com/0mniscient/Discord-Themes/master/css/Tags.css");
 
 :root {
-    --version-content: "1.01 WiP";
+    --version-content: "1.02 WiP";
     --theme-name: "QuietCustom";
     --theme-letter: "N";
+    --main-color: #9c27b0;
+    --hover-color: #651972;
 }
 
 /* Version Displayed */
