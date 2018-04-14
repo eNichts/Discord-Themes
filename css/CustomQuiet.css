@@ -6900,7 +6900,6 @@ polyline[stroke*="#7289da"] {
 
 .app .guilds>div.guild:first-child .badge {
     margin: 0px 2px 0px 0px !important;
-    padding: 21px 38px 16px 35px;
     border-radius: 0px !important;
     background-color: #19191b;
     border-bottom: 2px solid var(--main-color);
